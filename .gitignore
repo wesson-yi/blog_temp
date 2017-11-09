@@ -21,3 +21,18 @@
 /yarn-error.log
 
 .byebug_history
+
+.idea/*
+.rspec
+
+# config
+config/database.yml
+config/mongoid.yml
+config/secrets.yml
+config/redis.yml
+config/qiniu.yml
+config/unicorn.rb
+config/monitrc
+
+*.sql
+*.swp
